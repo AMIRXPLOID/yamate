@@ -10,6 +10,6 @@ $ git clone https://github.com/AMIRXPLOID/yamate
 ```
 ## Run Script
 ```
-$ cd kimochi 
-$ python kimochi.py  
+$ cd yamate
+$ python yamate.py  
 ```
