@@ -11,5 +11,5 @@ $ git clone https://github.com/AMIRXPLOID/yamate
 ## Run Script
 ```
 $ cd yamate
-$ python yamate.py  
+$ python kimochi.py  
 ```
