@@ -5,11 +5,11 @@ $ termux-setup-storage
 $ pkg install python  
 $ pkg install git  
 $ pip install requests  
-$ rm -rf dump  
-$ git clone https://github.com/Dapunta/dump  
+$ rm -rf kimochi
+$ git clone https://github.com/AMIRXPLOID/kimochi 
 ```
 ## Run Script
 ```
-$ cd dump  
-$ python dump.py  
+$ cd kimochi 
+$ python kimochi.py  
 ```
