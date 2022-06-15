@@ -5,11 +5,11 @@ $ termux-setup-storage
 $ pkg install python  
 $ pkg install git  
 $ pip install requests  
-$ rm -rf kimochi
+$ rm -rf yamate
 $ git clone https://github.com/AMIRXPLOID/yamate 
 ```
 ## Run Script
 ```
 $ cd yamate
-$ python kimochi.py  
+$ python yamate.py  
 ```
